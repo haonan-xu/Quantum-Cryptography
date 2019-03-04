@@ -12,7 +12,7 @@ This is where Quantum Fourier Transform comes in (as seen in classical_shor.py).
 
 
 
-# The Following notes are from the original author of the repository
+## The Following notes are from the original author of the repository
 
 '''
 # Quantum Cryptography
